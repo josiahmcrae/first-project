@@ -15,6 +15,17 @@ a {
      
 }
 
+.pageheader {
+    font-size: 3rem;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.sectionheader {
+    font-size: 2rem;
+    font-weight: 900;
+}
+
 img {
     width: 100%;
     
