@@ -1,5 +1,5 @@
 * {
-    background-color: black;
+    background-color: rgb(135,147,159);
     color: white; 
 }
 
@@ -31,4 +31,12 @@ a {
 img {
     width: 100%;
     
+}
+
+#captainAmericaLink {
+    color: rgb(18,28,41);
+}
+
+#IronManlink {
+    color: rgb(72,29,25);
 }
